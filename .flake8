@@ -2,6 +2,5 @@
 max-line-length = 120
 exclude = env/
 extra_requirements.add = [
-  "pep8-naming",
-  "flake8-import-order",
+  "pep8-naming"
 ]

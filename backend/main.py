@@ -9,4 +9,4 @@ app = FastAPI(
 
 @app.get("/")
 async def index() -> dict:
-    return {"ok":True}
+    return {"ok": True}

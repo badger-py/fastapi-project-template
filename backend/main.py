@@ -3,7 +3,7 @@ from fastapi import FastAPI
 
 app = FastAPI(
     title="New FastAPI app",
-	swagger_ui_parameters={"defaultModelsExpandDepth": -1}
+    swagger_ui_parameters={"defaultModelsExpandDepth": -1}
 )
 
 

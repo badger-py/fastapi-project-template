@@ -1,4 +1,4 @@
-from db import Base, SessionLocal, engine
+from db import Base, engine
 
 
 # create tables

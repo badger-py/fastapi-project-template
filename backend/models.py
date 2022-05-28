@@ -1,1 +1,1 @@
-from db import Base  # noqa: E231
+from db import Base  # noqa: F401

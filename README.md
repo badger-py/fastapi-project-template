@@ -1,2 +1,2 @@
-# FastNote
-Free, opensourcesystem that allows to create notes and access them for all devices
+# {{project_name}}
+{{project_desciption}}
